@@ -30,7 +30,6 @@ Colección de scripts y desarrollos en **Python** enfocados en la representació
 * `WYSCOUT_RadarPyPizza_Comparativa.ipynb`: Generación de gráficos de radar estilo PyPizza.
 * `WYSCOUT_RadarClasicoComparativo.ipynb`: Radar clásico comparativo para cara a cara entre jugadores.
 * `WYSCOUT_Percentiles_Grids_jugador.ipynb`: Paneles y grids de percentiles individuales.
-* `_WYSCOUT_Percentil_barras_jugador.ipynb`: Gráficos de barras de rendimiento relativo.
 
 ---
 
