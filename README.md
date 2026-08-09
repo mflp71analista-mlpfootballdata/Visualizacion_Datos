@@ -33,8 +33,8 @@ Colección de scripts y desarrollos en **Python** enfocados en la representació
 * **Convex Hull (Amplitud y Profundidad):** Envolvente convexa geométrica para medir la superficie de influencia, despliegue espacial, amplitud y profundidad de un jugador o bloque colectivo.
 
 ### 4. Análisis Estadístico y Distribuciones (SubPlots_GrafBarras_y_GrafAreas)
-* **Diagramas de Dispersión (Scatter Plots):** Matriz bidimensional para la identificación de *outliers* y correlación entre métricas clave (volumen vs. eficacia).
-* **Histogramas & Distribuciones:** Análisis de la dispersión de datos, sesgos de rendimiento y métricas de frecuencia en la competición.
+* **Gráficos de barras horizontales y verticales:** Gráfico de barras para la identificación de volumen de pases o cualquier otra métrica.
+* **Gráfico de área y de línea:** Gráficos para visualizar la evolución de, por ejemplo, xG del equipo contra el xG del rival.
 
 ---
 
