@@ -19,6 +19,7 @@ Colección de scripts y desarrollos en **Python** enfocados en la representació
 ### 1. Gráficos de Radar & Perfiles
 * **Radares Comparativos:** Análisis bidireccional de futbolistas en formato clásico y estilo *Pizza Chart* con desglose por bloques de métricas (Defensivas, Pases, Ataque).
 * **Normalización en Percentiles:** Representación del rendimiento del jugador en relación con su grupo de pares y competición.
+* **Perfiles Comparativos:** Representación en radar chart de métricas de dos jugadores para su comparación.
 
 ### 2. Grids de Percentiles & Barras
 * **Perfiles Visuales por Jugador:** Paneles estructurados (*Grids*) de métricas avanzadas por 90 minutos en formato de barras.
