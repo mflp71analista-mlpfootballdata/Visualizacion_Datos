@@ -32,7 +32,7 @@ Colección de scripts y desarrollos en **Python** enfocados en la representació
 * **Zonificación por Tercios o Carriles:** Desglose de intervención y volumen de juego segmentado por carriles (bandas/interior) y tercios de campo (iniciación, creación, finalización).
 * **Convex Hull (Amplitud y Profundidad):** Envolvente convexa geométrica para medir la superficie de influencia, despliegue espacial, amplitud y profundidad de un jugador o bloque colectivo.
 
-### 4. Análisis Estadístico y Distribuciones (SubPlots_GrafBarras_y_GrafAreas)
+### 4. SubPlots - Graf. Barras y Graf. Áreas
 * **Gráficos de barras horizontales y verticales:** Gráfico de barras para la identificación de volumen de pases o cualquier otra métrica.
 * **Gráfico de área y de línea:** Gráficos para visualizar la evolución de, por ejemplo, xG del equipo contra el xG del rival.
 
