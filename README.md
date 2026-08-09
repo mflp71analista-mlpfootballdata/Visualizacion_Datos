@@ -41,9 +41,6 @@ Colección de scripts y desarrollos en **Python** enfocados en la representació
 * `WYSCOUT_RadarPyPizza_Comparativa.ipynb`: Generación de gráficos de radar estilo PyPizza.
 * `WYSCOUT_RadarClasicoComparativo.ipynb`: Radar clásico comparativo para cara a cara entre jugadores.
 * `WYSCOUT_Percentiles_Grids_jugador.ipynb`: Paneles y grids de percentiles individuales.
-* `SPATIAL_Heatmaps_Pass_Shot_Maps.ipynb`: Mapas de calor, mapas de pases, tiros y zonificación por tercios/carriles.
-* `SPATIAL_Convex_Hull_Analysis.ipynb`: Cálculo visual de amplitud, profundidad y envolventes geométricas (*Convex Hull*).
-* `STATISTICS_Scatter_Histograms.ipynb`: Matrices de dispersión para scouting y análisis de distribución de métricas.
 
 ---
 
