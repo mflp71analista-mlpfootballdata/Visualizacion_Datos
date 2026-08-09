@@ -32,7 +32,7 @@ Colección de scripts y desarrollos en **Python** enfocados en la representació
 * **Zonificación por Tercios o Carriles:** Desglose de intervención y volumen de juego segmentado por carriles (bandas/interior) y tercios de campo (iniciación, creación, finalización).
 * **Convex Hull (Amplitud y Profundidad):** Envolvente convexa geométrica para medir la superficie de influencia, despliegue espacial, amplitud y profundidad de un jugador o bloque colectivo.
 
-### 4. Análisis Estadístico y Distribuciones
+### 4. Análisis Estadístico y Distribuciones (SubPlots_GrafBarras_y_GrafAreas)
 * **Diagramas de Dispersión (Scatter Plots):** Matriz bidimensional para la identificación de *outliers* y correlación entre métricas clave (volumen vs. eficacia).
 * **Histogramas & Distribuciones:** Análisis de la dispersión de datos, sesgos de rendimiento y métricas de frecuencia en la competición.
 
