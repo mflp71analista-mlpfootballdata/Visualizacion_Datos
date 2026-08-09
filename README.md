@@ -27,10 +27,8 @@ Colección de scripts y desarrollos en **Python** enfocados en la representació
 ### 3. Eventos de campo
 * **Mapas de Pases:** Representación geométrica de trayectorias, origen/destino de pase y tipo de pase.
 * **Mapas de Tiros:** Representación de la posición donde se realiza el tiro a portería y su resultado.
-* **Tercios y  Carriles:** Representación de número o porcentaje de pases por carriles o por tercios. 
 * **Mapas de Calor (Heatmaps):** Densidad espacial de acciones y ocupación de zonas sobre el terreno de juego. 
-
-* **Zonificación por Tercios y Carriles:** Desglose de intervención y volumen de juego segmentado por carriles (bandas/interior) y tercios de campo (iniciación, creación, finalización).
+* **Zonificación por Tercios o Carriles:** Desglose de intervención y volumen de juego segmentado por carriles (bandas/interior) y tercios de campo (iniciación, creación, finalización).
 * **Convex Hull (Amplitud y Profundidad):** Envolvente convexa geométrica para medir la superficie de influencia, despliegue espacial, amplitud y profundidad de un jugador o bloque colectivo.
 
 ### 4. Análisis Estadístico y Distribuciones
