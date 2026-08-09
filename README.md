@@ -33,4 +33,4 @@ Colección de scripts y desarrollos en **Python** enfocados en la representació
 
 ---
 
-🔒 *Nota: No se incluyen bases de datos comerciales en el repositorio público.*
+🔒 *Nota: Los datos brutos y archivos de datos (.csv/.json) no se incluyen en este repositorio público para proteger la propiedad intelectual de las fuentes de datos comerciales.*
